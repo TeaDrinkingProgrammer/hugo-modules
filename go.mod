@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules
+module github.com/teadrinkingprogrammer/hugo-modules
 
 go 1.19

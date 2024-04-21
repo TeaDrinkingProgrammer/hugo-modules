@@ -1,14 +1,14 @@
 {
-  "name": "@gethugothemes/hugo-modules",
+  "name": "@teadrinkingprogrammer/hugo-modules",
   "description": "Hugo Modules for gethugothemes.com themes",
   "homepage": "https://github.com/gethugothemes/hugo-modules",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gethugothemes/hugo-modules.git"
+    "url": "git+https://github.com/teadrinkingprogrammer/hugo-modules.git"
   },
   "bugs": {
-    "url": "https://github.com/gethugothemes/hugo-modules/issues"
+    "url": "https://github.com/teadrinkingprogrammer/hugo-modules/issues"
   },
   "keywords": [
     "hugo",
