@@ -2,13 +2,12 @@
   list-style: none;
   padding: 0;
   margin: 0 !important;
-  list-style-type: none !important;
   display: flex;
   border-bottom: 1px solid #aaa;
   overflow-x: auto;
-  &::-webkit-scrollbar {
-    width: 2px;
-  }
+}
+.tab-nav::-webkit-scrollbar {
+  width: 2px;
 }
 
 .tab-nav-item {
